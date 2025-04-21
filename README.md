@@ -8,6 +8,9 @@
 
 ---
 
+![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaB0001&show_icons=true&theme=tokyonight)
+
+
 ### 👩‍💻 Sobre mim
 
 Sou uma profissional em início de carreira, com formação em Análise e Desenvolvimento de Sistemas. Tenho muito interesse pela área de design de interfaces e desenvolvimento front-end, e venho praticando diariamente para evoluir como desenvolvedora e futura UX/UI designer.  
