@@ -37,17 +37,10 @@ Meu objetivo é unir código e criatividade para criar experiências visuais int
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🌐 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://linkedin.com/in/seuperfil) *(adicione o link real aqui)*
+- 💼 [LinkedIn](https://linkedin.com/in/seuperfil) **
 - 📌 Em constante aprendizado, criando projetos e me preparando pro futuro 🚀
 
 ---
