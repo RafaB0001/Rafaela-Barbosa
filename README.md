@@ -8,7 +8,6 @@
 
 ---
 
-![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaB0001&show_icons=true&theme=tokyonight)
 
 
 ### 👩‍💻 Sobre mim
